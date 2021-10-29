@@ -2,7 +2,7 @@
 
 Optional Add-Ons For DPEmotes https://github.com/TayMcKenzieNZ/dpemotes
 
-Simply add the `stream` folder to the DPEmotes folder and remove any additions you don't want.
+Simply create a `stream` folder inside the DPEmotes folder and remove any additions you don't want.
 
 
 
