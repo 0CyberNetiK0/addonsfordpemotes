@@ -17,5 +17,5 @@ Simply create a `stream` folder inside the DPEmotes folder and remove any additi
 
 | | | |
 |-|-|-|
-| <img src="screenshots/cb_before.png" width="250"> | <img src="screenshots/cp_after.png" width="250"> | <img src="screenshots/mugshot.png" width="250"> |
-| <img src="screenshots/protest.png" width="250"> | <img src="screenshots/umbrella.png" width="250"> |
+| <img src="Screenshots/cb_before.png" width="250"> | <img src="Screenshots/cp_after.png" width="250"> | <img src="Screenshots/mugshot.png" width="250"> |
+| <img src="Screenshots/protest.png" width="250"> | <img src="Screenshots/umbrella.png" width="250"> |
